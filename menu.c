@@ -11,7 +11,7 @@ int main() {
     char m4[20] = "Big Mac";
     char m5[20] = "Votre choix?";
     int m6;
-    int a = 1;
+    int e = 1;
     int b = 2;
     int c = 3;
     int d = 4;
